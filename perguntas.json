@@ -1,0 +1,30 @@
+{
+    "perguntas": [
+        {
+            "Pergunta": "Qual cidade tem a maior expectativa de vida do mundo?",
+            "Opcoes": ["Nova York", "Hong Kong", "Lisboa", "Moscou"],
+            "Resposta": "b"
+        },
+	{
+            "Pergunta": "Em qual cidade você estaria se estivesse nas Escadarias da Espanha?",
+	    "Opcoes": ["Espanha", "São Paulo", "Paris", "Roma"],
+            "Resposta": "d"
+        },
+	{
+            "Pergunta":"Qual idioma tem mais falantes nativos?",
+	    "Opcoes": ["Espanhol", "Inglês", "Arábe", "Português"],
+	    "Resposta":"a"
+        },
+        {
+            "Pergunta":"Qual é o sobrenome mais comum nos Estados Unidos?",
+            "Opcoes": ["Brown", "Willians", "Miller", "Smith"],
+            "Resposta": "d"
+        },
+	{
+            "Pergunta":"Quem era o antigo Deus Grego do sol?",
+            "Opcoes": ["Helios", "Poseidon", "Apolo", "Hades"],
+            "Resposta": "c"
+	}
+
+    ]
+}
