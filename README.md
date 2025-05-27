@@ -9,17 +9,16 @@ Apenas um projeto de quiz simples.
    https://github.com/MonoV1/quiz.git
    ```
 
-2. Instale as dependências:
+2. Primeiro comando:
    ```bash
-   pip install -r requirements.txt
+   cd quiz
    ```
 
 3. Execute o script:
    ```bash
-   python main.py
+   python mono.py
    ```
 
 ## Requisitos
 
 - Python 3.x
-- Acesso ao roteador (IP, usuário e senha)
