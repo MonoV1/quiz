@@ -2,7 +2,7 @@
 
 Apenas um projeto de quiz simples.
 
-## Como clonar
+## Como clonar no termux
 
 1. Clone o repositório:
    ```bash
