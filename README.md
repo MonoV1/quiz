@@ -6,7 +6,7 @@ Apenas um projeto de quiz simples.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MonoV1/router-tool.git
+   https://github.com/MonoV1/quiz.git
    ```
 
 2. Instale as dependências:
