@@ -39,6 +39,21 @@
             "Pergunta": "Em que continente está localizado o deserto do Saara?",
             "Opcoes": ["Ásia", "América", "África", "Europa"],
             "Resposta": "c"
+        },
+	{
+            "Pergunta": "Qual é o maior oceano do planeta?",
+            "Opcoes": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+            "Resposta": "d"
+        },
+        {
+            "Pergunta": "Quem pintou a obra 'A Última Ceia'?",
+            "Opcoes": ["Leonardo da Vinci", "Pablo Picasso", "Michelangelo", "Claude Monet"],
+            "Resposta": "a"
+        },
+        {
+            "Pergunta": "Qual elemento químico tem o símbolo O?",
+            "Opcoes": ["Ouro", "Oxigênio", "Ósmio", "Prata"],
+            "Resposta": "b"
         }
 	
 
