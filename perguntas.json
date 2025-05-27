@@ -24,7 +24,23 @@
             "Pergunta":"Quem era o antigo Deus Grego do sol?",
             "Opcoes": ["Helios", "Poseidon", "Apolo", "Hades"],
             "Resposta": "c"
-	}
+	},
+	{
+            "Pergunta": "Qual é o menor país do mundo em área?",
+            "Opcoes": ["Mônaco", "Vaticano", "Malta", "San Marino"],
+            "Resposta": "b"
+        },
+        {
+            "Pergunta": "Quem escreveu 'Dom Quixote'?",
+            "Opcoes": ["William Shakespeare", "Miguel de Cervantes", "Machado de Assis", "Camões"],
+            "Resposta": "b"
+        },
+        {
+            "Pergunta": "Em que continente está localizado o deserto do Saara?",
+            "Opcoes": ["Ásia", "América", "África", "Europa"],
+            "Resposta": "c"
+        }
+	
 
     ]
 }
